@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hello Coders! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-<!--
-**TRVK-1/TRVK-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=TRVK-1&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-Here are some ideas to get you started:
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" align="right" width="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 👨‍💻 I’m a Developer from Egypt 🇪🇬  
+- 🌱 I’m currently learning programming  
+- 💬 Ask me about coding and tech  
+- ⚡ Fun fact: I love building cool stuff  
+
+---
+
+#### 👨‍💻 Languages and Tools
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+
+---
+
+#### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TRVK-1&show_icons=true&theme=radical)
+
+---
+
+#### 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRVK-1&layout=compact&langs_count=1&theme=radical)
